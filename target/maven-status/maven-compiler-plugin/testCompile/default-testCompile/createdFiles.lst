@@ -1,0 +1,8 @@
+publicis\sapient\mower\mower\MovementsExecutorTest.class
+publicis\sapient\mower\model\TesterCsvParser.class
+publicis\sapient\mower\mower\MowerProcessorTest.class
+publicis\sapient\mower\mower\MovementFactoryTest.class
+publicis\sapient\mower\mower\MovementTest.class
+publicis\sapient\mower\MowerLineParserTest.class
+publicis\sapient\mower\model\TesterProcessor.class
+publicis\sapient\mower\ProcessorRegistryTest.class
